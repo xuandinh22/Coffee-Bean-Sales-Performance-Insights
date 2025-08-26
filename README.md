@@ -3,22 +3,25 @@
 The Coffee Bean Sales Dataset provides a detailed view of customer transactions, loyalty participation, and product preferences across US, UK, and Ireland. This project applies Excel and Tableau to explore how customer loyalty, product type, and geography influence overall sales performance. The analysis aims to uncover opportunities for improving retention and better align product offerings with customer preferences.
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c7fd2787-3b30-4b70-a5d7-fb1947851fb3" />
-Hypothetical Business Situation: <br />
-“Brew & Bean” is a small coffee bean branch operating in the US, UK, and Ireland since 2018. Over the past four years (2018 to 2022), the brand has collected detailed data on customer purchases, product types, and loyalty program participation. In 2022, the business began showing signs of decline, prompting the management team to seek a deeper understanding of sales performance to make informed decisions regarding customer retention, product offerings, and market expansion. <br />
+Hypothetical Business Situation: 
+“Brew & Bean” is a small coffee bean branch operating in the US, UK, and Ireland since 2018. Over the past four years (2018 to 2022), the brand has collected detailed data on customer purchases, product types, and loyalty program participation. In 2022, the business began showing signs of decline, prompting the management team to seek a deeper understanding of sales performance to make informed decisions regarding customer retention, product offerings, and market expansion.  
+
+####  
 The shop faces several key questions:
 
 •	Does the loyalty card program help with customer retention and boost sales?
 
-•	Which coffee types, roasts, and sizes are the most popular and profitable, and are there opportunities to optimize inventory or promotions?
+•	Which coffee types, roasts, and pack sizes are the most popular and profitable, and are there opportunities to optimize inventory or promotions?
 
 •	How do sales differ across countries and cities, and which markets show the greatest potential for growth?
 
 The management hopes that a comprehensive analysis of historical sales data will uncover actionable insights to strengthen the business, enhance customer engagement, and guide strategic decisions.
-<br />
+
 
 <img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/12111bef-782c-47cd-ba3a-311b55dc679b" />
  Insights and recommendations are provided on the following key areas:
 
+ ####  
 •	Customer Loyalty – Comparing loyalty card holders with non-members in terms of sales volume, profit, purchase frequency, and repeat behavior.
 
 •	Product Type – Identifying which coffee type, roast, and size combinations drive the highest sales and profit.
@@ -28,6 +31,7 @@ The management hopes that a comprehensive analysis of historical sales data will
 <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/3d8baa56-2f39-452e-9edf-2efc99427de3" />
 Tools:
 
+####  
 • Excel: Data cleaning, preparation, and analysis
 
 • Tableau: Interactive dashboard creation and visualization
@@ -37,9 +41,8 @@ Tools:
 • Flaticon: Icon sourcing for dashboard visuals
 
 • Paint: Icon customization and editing
-<br />
 
-Data Source: <a href="https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset">here</a>.
+Data Source: <a href="https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset">Coffee Bean Sales Raw Dataset</a>.
 
 An Interactive Tableau dashboard can be downloaded <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/CoffeeBean_17562288415120/Dashboard3?publish=yes">here</a>.
 
@@ -59,17 +62,23 @@ The number of orders steadily increased from 159 in 2019 to 170 in 2020, reachin
 
 Profit trends also differ from order trends. 2019 generated the highest profit ($818), followed by relatively close profits in 2020 ($779) and 2021 ($798). In 2022, profit decreased significantly to $708.
 
-Analysis suggests that the loyalty card program does not appear to significantly boost sales or improve customer retention. Geographically, the US market outperforms the UK and Ireland markets.
+The analysis suggests that the loyalty card program does not appear to significantly boost sales or improve customer retention. 
+
+Geographically, the US market outperforms the UK and Ireland markets.
 
 Regarding product preferences, Arabica is the most popular coffee type, while Robusta, Liberica, and Excelsa have similar, lower popular levels.
 
-Below is a snapshot from the Tableau dashboard; the full interactive dashboard can be downloaded <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/CoffeeBean_17562288415120/Dashboard3?publish=yes">here</a>
+Below is a snapshot from the Tableau dashboard; the full interactive dashboard can be downloaded <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/CoffeeBean_17562288415120/Dashboard3?publish=yes">here</a>.
 
 <p align="center">
-<img width="900" height="500" alt="Dashboard" src="https://github.com/user-attachments/assets/ace56b23-a1fa-4700-8b7d-0e88ccb17cb6" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/acac9675-9daa-4641-a6e8-9b7b2c70f6fd" />
 </p>
 
 ### Customer Loyalty 
+
+<p align="center">
+<img width="300" height="160" alt="image" src="https://github.com/user-attachments/assets/98138a23-6bd3-4b58-afbc-9ad18e944624" />
+</p>
 
 The database contains 1,000 customers, but only 913 have made purchases. The proportion of repeat customers is very low, averaging just 2.7%, despite 48.5% of customers holding a loyalty card. Surprisingly, repeat customers with a loyalty card place fewer orders and purchase smaller quantities than those without a loyalty card. Even among one-time customers, those enrolled in the loyalty program tend to have lower order counts and quantities compared to non-loyalty customers. Additionally, profit generated by loyalty program customers is lower than that from customers not in the program.
 
@@ -89,7 +98,7 @@ These findings suggest that the current loyalty program may not be effectively e
 <img width="250" height="90" alt="image" src="https://github.com/user-attachments/assets/06137249-61c4-4de8-a8fa-fa2c40570b4f" />
 </p>
 
-The US market significantly outperforms the UK and Ireland, with nearly 2,800 units sold, while the UK and Ireland see only a few hundred units each. As the result the US market generates the highest profit. The top-selling cities, Washington, New York, and Houston, are all in the US. 
+The US market significantly outperforms the UK and Ireland, with nearly 2,800 units sold, while the UK and Ireland see only a few hundred units each. As the result the US market generates the highest profit. The top-selling cities, Washington, New York, and Houston, are all in the US. Both the US and Ireland show a strong preference for Arabica beans, while the other three types also perform reasonably well. In contrast, Arabica is the least popular bean in the UK.
 
 The strong performance in the US could be attributed to larger population sizes, higher coffee consumption per capita, and stronger brand recognition in major cities. In contrast, the UK and Ireland may have lower demand due to smaller populations, different coffee preferences
 
