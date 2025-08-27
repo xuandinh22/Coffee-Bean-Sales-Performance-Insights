@@ -22,11 +22,11 @@ The management hopes that a comprehensive analysis of historical sales data will
  Insights and recommendations are provided on the following key areas:
 
  ####  
-•	Customer Loyalty – Comparing loyalty card holders with non-members in terms of sales volume, profit, purchase frequency, and repeat behavior.
+•	Customer Loyalty: Comparing loyalty card holders with non-members in terms of sales volume, profit, purchase frequency, and repeat behavior.
 
-•	Product Type – Identifying which coffee type, roast, and size combinations drive the highest sales and profit.
+•	Product Type: Identifying which coffee type, roast, and size combinations drive the highest sales and profit.
 
-•	Geography – Evaluating sales performance by country and city to highlight the strongest markets and customer preferences.
+•	Geography: Evaluating sales performance by country and city to highlight the strongest markets and customer preferences.
 
 <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/3d8baa56-2f39-452e-9edf-2efc99427de3" />
 Tools:
