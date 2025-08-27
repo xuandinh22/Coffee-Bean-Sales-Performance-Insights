@@ -1,4 +1,4 @@
-# Coffee Bean Sales Performance Insights
+# Coffee Bean Sales: Performance Insights
 ## Background and Overview
 The Coffee Bean Sales dataset provides a detailed view of customer transactions, loyalty participation, and product preferences across US, UK, and Ireland. This project applies Excel and Tableau to explore how customer loyalty, product type, and geography influence overall sales performance. The analysis aims to uncover opportunities for improving retention and better align product offerings with customer preferences.
 
