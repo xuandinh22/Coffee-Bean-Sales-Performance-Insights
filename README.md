@@ -65,7 +65,7 @@ The analysis suggests that the loyalty card program does not appear to significa
 Below is a snapshot from the Tableau dashboard; the full interactive dashboard can be downloaded <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/CoffeeBean_17562288415120/Dashboard3?publish=yes">here</a>.
 
 <p align="center">
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/444323a2-841f-43cf-a1dd-23fbc32fe31e" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/a5342de9-a76c-4600-8069-f0d14338a5aa" />
 </p>
 
 ### Customer Loyalty 
