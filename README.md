@@ -93,7 +93,7 @@ These findings suggest that the current loyalty program may not be effectively e
 
 ### Geography 
 <p align="center"> 
-<img width="250" height="90" alt="image" src="https://github.com/user-attachments/assets/06137249-61c4-4de8-a8fa-fa2c40570b4f" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/5ee0656d-5f56-4df9-ba37-cc2372f4aa4c" />
 </p>
 
 The US market significantly outmatchs the UK and Ireland, with nearly 2,800 units sold, while the UK and Ireland see only a few hundred units each. As the result the US market generates the highest profit. The top-selling cities, Washington, New York, and Houston, are all in the US. Both the US and Ireland show a strong preference for Arabica beans, while the other three types also perform reasonably well. In contrast, Arabica is the least popular bean in the UK.
