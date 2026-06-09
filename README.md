@@ -18,7 +18,7 @@ The shop faces several key questions:
 The management hopes that a comprehensive analysis of historical sales data will uncover actionable insights to strengthen the business, enhance customer engagement, and guide strategic decisions.
 
 
-<img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/12111bef-782c-47cd-ba3a-311b55dc679b" />
+<img width="2000" height="1200" alt="image" src="https://github.com/user-attachments/assets/2037f746-4643-44c1-95d4-b05d1e4bf4a7" />
  Insights and recommendations are provided on the following key areas:
 
  ####  
