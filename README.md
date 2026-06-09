@@ -3,7 +3,7 @@
 The Coffee Bean Sales dataset provides a detailed view of customer transactions, loyalty participation, and product preferences across US, UK, and Ireland. This project applies Excel and Tableau to explore how customer loyalty, product type, and geography influence overall sales performance. The analysis aims to uncover opportunities for improving retention and better align product offerings with customer preferences.
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c7fd2787-3b30-4b70-a5d7-fb1947851fb3" />
-Hypothetical Business Situation: 
+Business Situation: 
 “Brew & Bean” is a small coffee bean branch operating in the US, UK, and Ireland. Over the past four years (2018 to 2022), the brand has collected detailed data on customer purchases, product types, and loyalty program participation. In 2022, the business began showing signs of decline, prompting the management team to seek a deeper understanding of sales performance to make informed decisions regarding customer retention, product offerings, and market expansion.  
 
 ####  
@@ -17,8 +17,7 @@ The shop faces several key questions:
 
 The management hopes that a comprehensive analysis of historical sales data will uncover actionable insights to strengthen the business, enhance customer engagement, and guide strategic decisions.
 
-
-<img width="2000" height="1200" alt="image" src="https://github.com/user-attachments/assets/2037f746-4643-44c1-95d4-b05d1e4bf4a7" />
+<img width="25" height="25" alt="analysis" src="https://github.com/user-attachments/assets/e696f319-6456-4ac1-8a34-e643cbb72db6" />
  Insights and recommendations are provided on the following key areas:
 
  ####  
@@ -65,7 +64,7 @@ The analysis suggests that the loyalty card program does not appear to significa
 Below is a snapshot from the Tableau dashboard; the full interactive dashboard can be downloaded <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/CoffeeBean_17562288415120/Dashboard3?publish=yes">here</a>.
 
 <p align="center">
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/a5342de9-a76c-4600-8069-f0d14338a5aa" />
+<img width="2000" height="1200" alt="image" src="https://github.com/user-attachments/assets/2037f746-4643-44c1-95d4-b05d1e4bf4a7" />
 </p>
 
 ### Customer Loyalty 
